@@ -34,3 +34,6 @@
 </a>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarcalFilosofo&repo=knowledge)](https://github.com/MarcalFilosofo/knowledge)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcalFilosofo&show_icons=true&theme=radical)
+
