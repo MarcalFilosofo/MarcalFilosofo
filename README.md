@@ -12,3 +12,14 @@
 </a>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarcalFilosofo&repo=InnOut)](https://github.com/MarcalFilosofo/InnOut)
+
+<a href="https://github.com/MarcalFilosofo/InnOut">
+  <h3>
+    MarcalFlix
+  </h3>
+  <h4>
+  Eu estou trabalhando nesse aqui, mas está tão legal que eu coloquei aqui. Eu to recriando um "Netflix" pra episódios de podcast. Por enquanto só a tela de login que tá 100% pronta, estou fazendo o painel de administrador e a home com os principais eps.
+  </h4>
+</a>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarcalFilosofo&repo=MarcalFlix)](https://github.com/MarcalFilosofo/MarcalFlix)
