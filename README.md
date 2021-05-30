@@ -23,3 +23,14 @@
 </a>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarcalFilosofo&repo=MarcalFlix)](https://github.com/MarcalFilosofo/MarcalFlix)
+
+<a href="https://github.com/MarcalFilosofo/InnOut">
+  <h3>
+    Knowledge
+  </h3>
+  <h4>
+  Outro projeto de curso. Um sistema de cadastro de artigos com ordenões e paginação. Feito com Vue e Node.
+  </h4>
+</a>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarcalFilosofo&repo=knowledge)](https://github.com/MarcalFilosofo/knowledge)
