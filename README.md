@@ -18,7 +18,7 @@
     MarcalFlix
   </h3>
   <h4>
-  Eu estou trabalhando nesse aqui, mas está tão legal que eu coloquei aqui. Eu to recriando um "Netflix" pra episódios de podcast. Por enquanto só a tela de login que tá 100% pronta, estou fazendo o painel de administrador e a home com os principais eps.
+  Eu estou trabalhando nesse aqui, mas está tão legal que eu coloquei aqui. Eu to recriando um "Netflix" pra episódios de podcast. Por enquanto só a tela de login que tá 100% pronta, estou fazendo o painel de administrador e a home com os principais eps. Estou usando ReactJs (Tecnologia que estou gostando muito de usar) e NodeJs.
   </h4>
 </a>
 
