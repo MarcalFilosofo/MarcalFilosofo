@@ -6,6 +6,9 @@
   <h3>
     InNOut
   </h3>
+  <h4>
+  Um projetinho que eu desenvolvi em um curso. É um projeto de registro de marcação de ponto de funcionários. O projeto foi feito usando PHP puro na arquitetura MVC, deu pra aprender na marra os detalhes da arquitetura e como integrar a recursos de infra como banco de dados de uma forma muito elegante
+  </h4>
 </a>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarcalFilosofo&repo=InnOut)](https://github.com/MarcalFilosofo/InnOut)
