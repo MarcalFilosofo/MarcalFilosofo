@@ -4,6 +4,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcalFilosofo&show_icons=true&theme=gruvbox)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcalFilosofo&layout=compact&theme=gruvbox)](https://github.com/MarcalFilosofo/github-readme-stats)
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MarcalFilosofo)](https://github.com/MarcalFilosofo/github-readme-stats)
 
 <p>Sou desenvolvedor WEB, trabalho/estudo PHP desde 2018, da uma olhada em uns projetos que eu fiz com o PHP:</p>
 <a href="https://github.com/MarcalFilosofo/InnOut">
