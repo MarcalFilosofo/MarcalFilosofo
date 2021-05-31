@@ -38,5 +38,8 @@
 </a>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarcalFilosofo&repo=knowledge&theme=gruvbox)](https://github.com/MarcalFilosofo/knowledge)
+<br><br>
 
+"Não importa o quanto tenha medo, deve sorrir para mostrar que está tudo bem. Neste mundo, aqueles que sorriem são os mais fortes"
+Shimura Nana
 
