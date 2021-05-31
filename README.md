@@ -26,7 +26,7 @@
   </h4>
 </a>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarcalFilosofo&repo=MarcalFlix)](https://github.com/MarcalFilosofo/MarcalFlix)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarcalFilosofo&repo=MarcalFlix&theme=gruvbox)](https://github.com/MarcalFilosofo/MarcalFlix)
 
 <a href="https://github.com/MarcalFilosofo/InnOut">
   <h3>
