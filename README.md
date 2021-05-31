@@ -2,7 +2,7 @@
 <p>Eu moro em Brasília, sou aluno do Instituto Federal de Brasília no curso de Sistemas para Internet. Atualmente estagio no Conselho Regional de Engenharia e Agronomia na área de desenvolvimento de sistemas. </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcalFilosofo&show_icons=true&theme=gruvbox)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcalFilosofo&langs_count=8)](https://github.com/MarcalFilosofo/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcalFilosofo&langs_count=8&theme=gruvbox)](https://github.com/MarcalFilosofo/github-readme-stats)
 
 
 <p>Sou desenvolvedor WEB, trabalho/estudo PHP desde 2018, da uma olhada em uns projetos que eu fiz com o PHP:</p>
